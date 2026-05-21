@@ -1,0 +1,20 @@
+Cas 1 : Orange Guinée analyse 5 ans de logs d'appels (500 Go) pour détecter des fraudes SIM en temps réel
+Approche : Big Data + Machine Learning (ML)
+Justification :
+Orange Guinée traite un très grand volume de données (500 Go de logs sur 5 ans), ce qui correspond au Big Data. La détection automatique des fraudes SIM en temps réel nécessite aussi du Machine Learning, car des modèles peuvent apprendre à reconnaître des comportements suspects (appels inhabituels, trafic anormal, fraude SIM box, etc.).
+Approche : Big Data + ML
+Justification : Le volume de données est très important (500 Go sur 5 ans), ce qui relève du Big Data. La détection de fraudes en temps réel nécessite des modèles capables d’identifier automatiquement des comportements suspects, ce qui relève du Machine Learning. 
+Pourquoi ce n’est pas seulement DM (Data Mining) ?
+Parce qu’il y a temps réel + énorme volume de données, ce qui dépasse une simple analyse classique de données.
+
+
+Cas 2 : Une banque guinéenne de microfinance prédit si un demandeur de crédit va rembourser ou non
+Approche : ML (Machine Learning)
+Justification :
+La banque veut prédire un comportement futur (rembourser ou non un crédit) à partir de données historiques des clients. Cela correspond au Machine Learning, car on entraîne un modèle sur des anciens cas de remboursement afin de faire une prédiction automatique sur un nouveau demandeur.
+
+
+Cas 3 : Un hôpital de Conakry regroupe des patients en profils similaires sans diagnostic préalable
+Approche : DM (Data Mining)
+Justification :
+L’hôpital cherche à regrouper automatiquement des patients ayant des caractéristiques similaires sans connaître à l’avance les catégories. Cela correspond au Data Mining, plus précisément au clustering (segmentation), qui permet de découvrir des groupes cachés dans les données sans étiquette ou diagnostic préalable.
